@@ -1,0 +1,16 @@
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.exe
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.deps.json
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.runtimeconfig.json
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.runtimeconfig.dev.json
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.dll
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\ref\naslijedivanjeKlasa.dll
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\bin\Debug\net5.0\naslijedivanjeKlasa.pdb
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.csprojAssemblyReference.cache
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.AssemblyInfoInputs.cache
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.AssemblyInfo.cs
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.csproj.CoreCompileInputs.cache
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.dll
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\ref\naslijedivanjeKlasa.dll
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.pdb
+C:\Users\anteu\source\repos\naslijedivanjeKlasa\naslijedivanjeKlasa\obj\Debug\net5.0\naslijedivanjeKlasa.genruntimeconfig.cache
